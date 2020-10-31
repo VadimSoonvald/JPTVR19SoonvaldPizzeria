@@ -1,0 +1,8 @@
+/build
+/dist
+/nbproject
+build.xml
+CUSTOMERS
+PRODUCTS
+PURCHASES
+USERS
